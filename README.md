@@ -1,4 +1,6 @@
-# Devops Assignment
+# Sample Crawler Example
+
+This repository contains a command line script writen in Python3 for downloading the png image files from a given url
 
 ## Usage
 
